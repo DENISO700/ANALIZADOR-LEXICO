@@ -3,7 +3,7 @@ Grupo 6
 
 Integrantes
 
-Keren 
+Keren Eunice Ramos Sauceda
 
 Deybi 
 
