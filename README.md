@@ -5,7 +5,7 @@ Integrantes
 
 Keren Eunice Ramos Sauceda
 
-Deybi 
+Deybi Benigno López Ramirez
 
 Cristhopher Isaac Andino Garmendia 
 
