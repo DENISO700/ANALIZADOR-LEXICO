@@ -7,8 +7,8 @@ Keren
 
 Deybi 
 
-Cristhofer
+Cristhopher Isaac Andino Garmendia 
 
-Lesly
+Lesly Mabely Argueta Aguilar 
 
-Denis Ordoñez
+Denis Alejandro Ordoñez Sevilla
