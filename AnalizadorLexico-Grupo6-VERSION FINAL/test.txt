@@ -1,0 +1,23 @@
+
+
+  declare test as entero = + 25
+  
+  leer % hola %
+
+  imprimir $ mundo $ 
+
+  para ( j = 0 ; j < 10 ; j = j + 1 ) { } 
+
+
+  ## este es un comentario ##
+ 
+
+  mientras ( i = 9 ) { }
+   
+
+  
+
+   
+  
+   
+
